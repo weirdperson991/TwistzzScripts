@@ -1,0 +1,59 @@
+return {
+
+-- this is paid ones dont touch
+    {
+        key = "1234",
+        clientid = "9427A00E-B374-439E-9AF1-14EC56D36FBA"
+    },
+    {
+        key = "58BJ-FYWT-K6JD-RNAL",
+        clientid = "68c80732-5976-4bc6-90c6-4bd497a67348"
+    },
+    {
+        key = "3WRP-Q2TL-J9HG-M4BC",
+        clientid = "d566de75-5e47-4725-b10c-3fc09636c21c"
+    },
+    {
+        key = "8N2B-G4F7-D3C9-A0H5",
+        clientid = "fd784d14-fef1-4b45-a8fe-5ec5cfcf5f5e"
+    },
+    {
+        key = "4ABS-B5U4-SOF0-SXJG",
+        clientid = "0ea7f57f-6c17-48e4-b48c-251004d59111"
+    },
+    {
+        key = "OMPX-YBOB-BBOB-EP6Y",
+        clientid = "49CACBC6-A9B6-4931-9407-7F0E977FABD7"
+    },
+    {
+        key = "HC0V-A2YU-JEFE-LUNN",
+        clientid = "d90aa74c-095a-4083-9b37-82a34ec1603c"
+    },
+    {
+        key = "DQZR-ZX2K-3M4J-LO6L",
+        clientid = "48f589e8-0f41-40e3-ae02-12b178fd2690"
+    },
+    {
+        key = "6VFB-GQ1H-7GV2-0ARJ",
+        clientid = "7E202304-EBC1-4C0E-9609-F4EC51C601C8"
+    },
+    {
+        key = "5OLW-Y3G0-6452-AUMZ",
+        clientid = "fa7901e7-796d-4fd0-896a-d7a8f55e4b95"
+    },
+    {
+        key = "VKOP-LSO4-5E5H-3BOU",
+        clientid = "E5D487B7-2C96-4DE0-AC50-1E2F8608CE71"
+    },
+    {
+        key = "8A1F-KLKB-1QH4-MHZQ",
+        clientid = "7ba3831d-da1a-492b-bbcf-6058f94ee14e"
+    }
+
+-- free ones after the did keysystem
+    {
+        key = "S8D8-S8DZ-DSSL-AZSS",
+        clientid = "7ba3831d-da1a-492b-bbcf-6058f94ee14e"
+expiration = "12/23/2025 at 8:01pm"
+    }
+}
