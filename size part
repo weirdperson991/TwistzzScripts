@@ -1,6 +1,0 @@
-local part = workspace:FindFirstChild('gaynigger')
-if part then
-    local s = part.Size
-    part.Size = Vector3.new(s.X + 1, s.Y + 1, s.Z + 1)
-    print('[+] New Size:', part.Size)
-end
